@@ -1,0 +1,3 @@
+/mnt/c/Users/Lenovo/CLionProjects/bookstore/cmake-build-debug/CMakeFiles/bookstore.dir
+/mnt/c/Users/Lenovo/CLionProjects/bookstore/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Lenovo/CLionProjects/bookstore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
