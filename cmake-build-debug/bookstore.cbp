@@ -82,7 +82,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/mnt/c/Users/Lenovo/CLionProjects/bookstore/MemoryRiver.hpp">
+			<Option target="bookstore"/>
+		</Unit>
 		<Unit filename="/mnt/c/Users/Lenovo/CLionProjects/bookstore/main.cpp">
+			<Option target="bookstore"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Lenovo/CLionProjects/bookstore/store.hpp">
 			<Option target="bookstore"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/Lenovo/CLionProjects/bookstore/CMakeLists.txt">
